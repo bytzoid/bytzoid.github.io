@@ -2,3 +2,6 @@ body {
    display: inline-block;
    background-color:rgb(200,200,200);
 }
+.topbar {
+   background-color:rgb(50,50,255)
+}
